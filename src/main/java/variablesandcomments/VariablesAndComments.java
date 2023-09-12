@@ -29,5 +29,7 @@ public class VariablesAndComments {
 
         System.out.println("The phone is used?" + isUsed);
         System.out.println("The phone price=" + price);
+
+        System.out.println("The phone has 2 sim cards? " + numberOfSimCards);
     }
 }
