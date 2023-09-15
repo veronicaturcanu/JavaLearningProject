@@ -1,4 +1,4 @@
-package variablesandcomments;
+package md.tekwill.variablesandcomments;
 
 public class VariablesAndComments {
     public static void main(String[] args) {
