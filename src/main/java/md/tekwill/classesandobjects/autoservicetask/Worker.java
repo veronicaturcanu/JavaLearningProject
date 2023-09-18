@@ -1,7 +1,6 @@
 package md.tekwill.classesandobjects.autoservicetask;
 
 public class Worker {
-
     public String name;
     public boolean isQualified;
     public int age;
